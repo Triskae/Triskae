@@ -2390,7 +2390,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juanfont/headscale</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open source, self-hosted implementation of the Tailscale control server</div>
@@ -2443,7 +2443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tale/headplane</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A feature-complete Web UI for Headscale</div>
@@ -2679,7 +2679,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jul 2025, 13:11:10 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jul 2025, 14:25:19 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
