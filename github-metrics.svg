@@ -2503,7 +2503,7 @@
                                         <span>starred 6 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">BookLore is a self-hosted app for managing and reading books &amp; comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.</div>
+                                <div class="field description">BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2683,7 +2683,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2025, 16:11:43 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2025, 17:28:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
