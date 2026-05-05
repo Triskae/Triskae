@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pouzor/homelable-hacs</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Home Assistant integration for Homelable — interactive homelab network topology, scanning and live status checks, distributed via HACS</div>
@@ -2384,7 +2384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nkallen/plasticity</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2672,7 +2672,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 May 2026, 21:29:53 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 May 2026, 22:21:03 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
