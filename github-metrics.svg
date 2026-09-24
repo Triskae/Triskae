@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NXD-Foundation/nxd-wallet-conformance-backend</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is the EWC Interoperability Test Bed (ITB) and implements the conformance towards EWC RFCs and WEBUILD conformance specs; build towards the Large Scale Pilot (LSP) usecases.</div>
@@ -2669,7 +2669,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2026, 20:03:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Sept 2026, 23:53:59 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
