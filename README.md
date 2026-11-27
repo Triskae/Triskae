@@ -2,8 +2,6 @@
  
 <div align="center">
  
-![Metrics](/github-metrics-terminal.svg)
-
 ![Metrics](/github-metrics.svg)
 
 </div>
